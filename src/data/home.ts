@@ -50,7 +50,7 @@ export const videos = [
       profileUrl:
         "https://static.crunchyroll.com/cxweb/assets/img/og-image.png",
     },
-    viewss: 534004,
+    views: 534004,
     postedAt: new Date("2023-04-01"),
     duration: 858,
     thumbnailUrl: "https://www.fsunews.com/gcdn/presto/2021/02/06/PFSU/b009d431-cc9a-4a12-9073-944f3c2bd0fe-Attack-On-Titan-Season-4-Episode-5-Release-Date-And.jpg?crop=895,504,x2,y0&width=895&height=504&format=pjpg&auto=webp",
@@ -66,7 +66,7 @@ export const videos = [
       profileUrl:
         "https://w7.pngwing.com/pngs/38/745/png-transparent-crunchyroll-manga-anime-television-school-manga-thumbnail.png",
     },
-    viewss: 655500,
+    views: 655500,
     postedAt: new Date("2023-04-01"),
     duration: 948,
     thumbnailUrl: "https://i.ytimg.com/vi/5ZFpohjB5XY/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARg5IGUoRzAP&rs=AOn4CLDBNiX0TGVEfkknVZdthTLH546hiQ",
@@ -82,7 +82,7 @@ export const videos = [
       profileUrl:
         "https://yt3.ggpht.com/ytc/APkrFKYkAgDYRbEnAO9-BlZnfDj2mmOdLT2boV28-FFUSg=s48-c-k-c0x00ffffff-no-rj",
     },
-    viewss: 58000000,
+    views: 58000000,
     postedAt: new Date("2018-09-19"),
     duration: 6002,
     thumbnailUrl: "https://i.ytimg.com/vi/7Ron6MN45LY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAi3GDBbCUtVWd2JaZox4mZ3H5zDQ",
@@ -98,7 +98,7 @@ export const videos = [
       profileUrl:
         "https://yt3.ggpht.com/ytc/APkrFKaJIBd6dnqCJ5cQhnpsN44ASxUIHzwkCxaektVB=s48-c-k-c0x00ffffff-no-rj",
     },
-    viewss: 312315,
+    views: 312315,
     postedAt: new Date("2021-05-18"),
     duration: 331,
     thumbnailUrl: "https://i.ytimg.com/vi/dKT_7Nu3vHI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA6YFsHUvKcACLrDbSQ7Qa2DzO33w",
@@ -114,7 +114,7 @@ export const videos = [
       profileUrl:
         "https://yt3.ggpht.com/uT5bTC-3ztlribAogB9bWJdRWW8L5lfwTZONcvzsGyBlThbELaMFAkM0p2BcyxKOy4uq5Pqh5A=s88-c-k-c0x00ffffff-no-rj",
     },
-    viewss: 33000,
+    views: 33000,
     postedAt: new Date("2018-08-24"),
     duration: 195,
     thumbnailUrl: "https://i.ytimg.com/vi/I3x2D8PLie4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBEwr_2ngrpjUYryT7WSWWaJJPcRQ",
@@ -130,7 +130,7 @@ export const videos = [
       profileUrl:
         "https://yt3.ggpht.com/ytc/AIf8zZSXL2ydjrtoW1_GoH22SxSXHKlQQDxOfgT7OW_K=s88-c-k-c0x00ffffff-no-rj",
     },
-    viewss: 93000,
+    views: 93000,
     postedAt: new Date("2021-07-09"),
     duration: 178,
     thumbnailUrl: "https://i.ytimg.com/vi/BflIQZFMm1Q/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2LgRgVyywhCJVsX4XvrfQkuB1ew",
@@ -146,7 +146,7 @@ export const videos = [
       profileUrl:
         "https://yt3.ggpht.com/MbgMHB7O7k9OXEzIAlUTkmSk8qXWx5mQa0dQVnE3M0wZxCdaNXQAlVHG4s7tF-OZsrBf-iG29UA=s88-c-k-c0x00ffffff-no-rj",
     },
-    viewss: 498590,
+    views: 498590,
     postedAt: new Date("2023-07-25"),
     duration: 164,
     thumbnailUrl: "https://i.ytimg.com/vi/R4UFCTMrV-o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDpREjB0Ddr6botxsbCMGSH4l0z4g",
@@ -162,7 +162,7 @@ export const videos = [
       profileUrl:
         "https://yt3.googleusercontent.com/ytc/AIf8zZSUbcCBQvBIV2IjoSH40XCccby8DSlyMwYMi-lqEQ=s176-c-k-c0x00ffffff-no-rj",
     },
-    viewss: 396549,
+    views: 396549,
     postedAt: new Date("2023-09-29"),
     duration: 645,
     thumbnailUrl: "https://i.ytimg.com/an_webp/ioj25fSLVb8/mqdefault_6s.webp?du=3000&sqp=CMCjwa0G&rs=AOn4CLA-V5MITzf4iYS7U77JGZbEE5HBaw",
@@ -303,7 +303,7 @@ export const videos = [
       id: "CNBC Ambition",
       profileUrl: "https://yt3.ggpht.com/6mBtU7MSdVIE2T7irmynDLL9z8I-qb5QTmynLWJx0GLBUwDaKhDEF-WT2q5JcPsOl1NVEsgR5w=s88-c-k-c0x00ffffff-no-rj",
     },
-    viewss: 226490,
+    views: 226490,
     postedAt: new Date("2022-11-30"),
     duration: 1689,
     thumbnailUrl: "https://i.ytimg.com/an_webp/054MG9DNeQs/mqdefault_6s.webp?du=3000&sqp=CPmRwa0G&rs=AOn4CLCXwFb_4p8jlV4PuhM8yXugkjUN0Q",
