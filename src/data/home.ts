@@ -165,7 +165,7 @@ export const videos = [
     views: 396549,
     postedAt: new Date("2023-09-29"),
     duration: 645,
-    thumbnailUrl: "https://i.ytimg.com/an_webp/ioj25fSLVb8/mqdefault_6s.webp?du=3000&sqp=CMCjwa0G&rs=AOn4CLA-V5MITzf4iYS7U77JGZbEE5HBaw",
+    thumbnailUrl: "/thumbnail8.webp",
     videoUrl:
       "",
   },
@@ -180,7 +180,7 @@ export const videos = [
     views: 818957,
     postedAt: new Date("2024-01-22"),
     duration: 968,
-    thumbnailUrl: "https://i.ytimg.com/an_webp/z-t3M-To7co/mqdefault_6s.webp?du=3000&sqp=CLCBwa0G&rs=AOn4CLCbH491VIlMBwR3MU-YLo_F9CJrow",
+    thumbnailUrl:"/thumbnail9.webp",
     videoUrl: "",
   },
   {
@@ -194,7 +194,7 @@ export const videos = [
     views: 602024,
     postedAt: new Date("2022-12-02"),
     duration: 602024,
-    thumbnailUrl: "https://i.ytimg.com/an_webp/jxJme_YI6Oo/mqdefault_6s.webp?du=3000&sqp=CO6Twa0G&rs=AOn4CLA2n50_EbGABs1jyRzZTJoe5IuX7A",
+    thumbnailUrl:"/thumbnail10.webp",
     videoUrl: "",
   },
   {
@@ -208,7 +208,7 @@ export const videos = [
     views: 284686,
     postedAt: new Date("2011-02-09"),
     duration: 280,
-    thumbnailUrl: "https://i.ytimg.com/vi/eO8wscQrwbI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAmNNY9lJePv_ranIZ1dYDrXEnkwQ",
+    thumbnailUrl:"/thumbnail11.webp",
     videoUrl: "",
   },
   {
@@ -222,7 +222,7 @@ export const videos = [
     views: 2236796,
     postedAt: new Date("2023-12-20"),
     duration: 596,
-    thumbnailUrl: "https://i.ytimg.com/an_webp/gi96HKr2vo8/mqdefault_6s.webp?du=3000&sqp=CNyLwa0G&rs=AOn4CLBSFINy4fajO7Hv0clRP6p4Hv9bHw",
+    thumbnailUrl:"/thumbnail12.webp",
     videoUrl: "",
   },
   {
@@ -236,7 +236,7 @@ export const videos = [
     views: 377231,
     postedAt: new Date("2019-11-22"),
     duration: 3247,
-    thumbnailUrl: "https://i.ytimg.com/an_webp/dTvwF5tySLg/mqdefault_6s.webp?du=3000&sqp=CNCXwa0G&rs=AOn4CLBcaFF_hARSn0lw_UdbqG2kaU211w",
+    thumbnailUrl:"/thumbnail13.webp",
     videoUrl: "",
   },
   {
@@ -250,7 +250,7 @@ export const videos = [
     views: 5749663,
     postedAt: new Date("2023-05-09"),
     duration: 694,
-    thumbnailUrl: "https://i.ytimg.com/an_webp/L4cth57-66k/mqdefault_6s.webp?du=3000&sqp=CI2Rwa0G&rs=AOn4CLAwIp9D9iLu8M6OdsYSJPv87ZiQ1Q",
+    thumbnailUrl:"/thumbnail14.webp",
     videoUrl: "",
   },
   {
@@ -264,7 +264,7 @@ export const videos = [
     views: 1736652,
     postedAt: new Date("2023-01-03"),
     duration: 736,
-    thumbnailUrl: "https://i.ytimg.com/an_webp/sZNFHjJpeCw/mqdefault_6s.webp?du=3000&sqp=CKD2wK0G&rs=AOn4CLBKJMIfU1-PDYVELq4OEZCNZf77Tg",
+    thumbnailUrl:"/thumbnail15.webp",
     videoUrl: "",
   },
   {
@@ -278,7 +278,7 @@ export const videos = [
     views: 12274611,
     postedAt: new Date("2021-11-13"),
     duration: 1361,
-    thumbnailUrl: "https://i.ytimg.com/an_webp/eatQ9-79zGU/mqdefault_6s.webp?du=3000&sqp=CJ2Zwa0G&rs=AOn4CLA4_agoy6PBO8MoQV-Cp48Xs6n5FA",
+    thumbnailUrl:"/thumbnail16.webp",
     videoUrl: "",
   },
   {
@@ -292,7 +292,7 @@ export const videos = [
     views: 94631475,
     postedAt: new Date("2021-12-19"),
     duration: 1485,
-    thumbnailUrl: "https://i.ytimg.com/an_webp/J6ZY0aAPvDU/mqdefault_6s.webp?du=3000&sqp=CNGuwa0G&rs=AOn4CLDk_f8k7bvAhteRI7_M26o-LP8z1A",
+    thumbnailUrl:"/thumbnail17.webp",
     videoUrl: "",
   },
   {
@@ -306,7 +306,7 @@ export const videos = [
     views: 226490,
     postedAt: new Date("2022-11-30"),
     duration: 1689,
-    thumbnailUrl: "https://i.ytimg.com/an_webp/054MG9DNeQs/mqdefault_6s.webp?du=3000&sqp=CPmRwa0G&rs=AOn4CLCXwFb_4p8jlV4PuhM8yXugkjUN0Q",
+    thumbnailUrl:"/thumbnail18.webp",
     videoUrl: "",
   },
   {
@@ -320,7 +320,7 @@ export const videos = [
     views: 3208116,
     postedAt: new Date("2021-06-27"),
     duration: 960,
-    thumbnailUrl: "https://i.ytimg.com/an_webp/KfAaIcLfebY/mqdefault_6s.webp?du=3000&sqp=CNSbwa0G&rs=AOn4CLChEnzbGTfmEZeyXUvQ31leTtsqxQ",
+    thumbnailUrl:"/thumbnail19.webp",
     videoUrl: "",
   },
   {
@@ -334,7 +334,7 @@ export const videos = [
     views: 8846635,
     postedAt: new Date("2021-12-29"),
     duration: 971,
-    thumbnailUrl: "https://i.ytimg.com/an_webp/TiyxdTPnL9o/mqdefault_6s.webp?du=3000&sqp=CLyMwa0G&rs=AOn4CLDNYX9hi8ReT9sgDNmBsycpiHyySA",
+    thumbnailUrl:"/thumbnail20.webp",
     videoUrl: "",
   },
 ]
